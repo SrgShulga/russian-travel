@@ -8,8 +8,8 @@
 
   * Отзывчивая вёрстка
   * Возможности СSS3
-  * Grid-layout
-  * Flex-box
+  * Grid layout
+  * Flexbox
 
 **GitHub Pages**
 
