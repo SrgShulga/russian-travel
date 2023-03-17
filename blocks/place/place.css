@@ -12,7 +12,7 @@
   }
 }
 
-@media (min-width: 631px) and (max-width: 768px) {
+@media (min-width: 630px) and (max-width: 768px) {
   .place {
     margin: 0 0 73px 0;
     grid-template-columns: minmax(280px, 340px) minmax(280px, 352px);
@@ -20,7 +20,7 @@
   }
 }
 
-@media (min-width: 426px) and (max-width: 630px) {
+@media (min-width: 425px) and (max-width: 630px) {
   .place {
     grid-template-columns: 1fr;
     gap: 32px;

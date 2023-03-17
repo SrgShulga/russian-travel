@@ -4,9 +4,9 @@
   line-height: 22px;
   font-weight: 400;
   color: #ffffff;
-  transition: ease-in-out 0.35s;
+  transition: opacity 0.35s ease-in-out;
 }
 
 .place__link:hover {
-  opacity: 0.6;
+  opacity: 0.8;
 }
