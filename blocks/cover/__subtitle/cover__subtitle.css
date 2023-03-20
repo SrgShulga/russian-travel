@@ -1,6 +1,6 @@
 .cover__subtitle {
   max-width: 360px;
-  margin: 0 0 245px;
+  margin: 0;
   font-size: 18px;
   line-height: 22px;
   font-weight: 400;
@@ -8,25 +8,13 @@
   align-self: center;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-  .cover__subtitle {
-    margin: 0 auto 195px;
-  }
-}
-
-@media (min-width: 525px) and (max-width: 768px) {
-  .cover__subtitle {
-    margin: 0 auto 115px;
-  }
-}
-
 @media (max-width: 525px) {
   .cover__subtitle {
     max-width: 288px;
-    margin: 0 auto 33px;
     font-size: 14px;
     line-height: 16px;
     white-space: pre-line;
   }
 }
+
 

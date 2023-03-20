@@ -52,6 +52,10 @@
 
 @import url(../blocks/photo-grid/photo-grid.css);
 
+@import url(../blocks/photo-grid/__list/photo-grid__list.css);
+
+@import url(../blocks/photo-grid/__list-item/);
+
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 /* секция places */
@@ -81,6 +85,8 @@
 @import url(../blocks/cover/cover.css);
 
 @import url(../blocks/cover/__overlay/cover__overlay.css);
+
+@import url(../blocks/cover/__link/cover__link.css);
 
 @import url(../blocks/cover/__title/cover__title.css);
 
